@@ -1,0 +1,31 @@
+{
+  "name": "electron-ipc-listener",
+  "version": "1.0.0",
+  "description": "Ipc Listener",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwu/electron-ipc-listener.git"
+  },
+  "keywords": [
+    "Electron",
+    "Ipc"
+  ],
+  "author": "jwu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jwu/electron-ipc-listener/issues"
+  },
+  "homepage": "https://github.com/jwu/electron-ipc-listener",
+  "dependencies": {
+    "electron-platform": "^1.1.0"
+  },
+  "devDependencies": {
+    "electron": "1.4.13",
+    "mocha": "^3.2.0",
+    "spectron": "3.4.1"
+  }
+}
