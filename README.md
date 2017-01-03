@@ -1,4 +1,9 @@
-# electron-ipc
+# electron-ipc-listener
+
+[![Linux Build Status](https://travis-ci.org/electron-utils/electron-ipc-listener.svg?branch=master)](https://travis-ci.org/electron-utils/electron-ipc-listener)
+[![Windows Build status](https://ci.appveyor.com/api/projects/status/figbx38lys2tygja?svg=true)](https://ci.appveyor.com/project/jwu/electron-ipc-listener)
+[![Dependency Status](https://david-dm.org/electron-utils/electron-ipc-listener.svg)](https://david-dm.org/electron-utils/electron-ipc-listener)
+[![devDependency Status](https://david-dm.org/electron-utils/electron-ipc-listener/dev-status.svg)](https://david-dm.org/electron-utils/electron-ipc-listener#info=devDependencies)
 
 IPC listener which will cache the callbacks for easily clear.
 
@@ -52,4 +57,4 @@ Clear all registered IPC messages in the listener.
 
 ## License
 
-MIT © 2016 Johnny Wu
+MIT © 2017 Johnny Wu
